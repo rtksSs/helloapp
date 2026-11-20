@@ -1,5 +1,5 @@
 def greet():
-    print("hello")
+    print("hello everyone")
 
 
 def greetWhite():
